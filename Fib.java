@@ -1,6 +1,4 @@
 package com.qa.main;
-import java.util.ArrayList;
-import java.util.List;
 
 public class Fib {
 	
@@ -24,7 +22,8 @@ public class Fib {
 	}
 	}
 	
-	 
+	// initially i tried creating a list of type integer and used a value of 50 as my limit in the loop however for large numbers
+	//i was getting negatives as the int reached its limit 
 	 
 	 
 	 
